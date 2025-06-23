@@ -1,0 +1,9 @@
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\bin\Debug\FarenhieghttoCelcius.exe.config
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\bin\Debug\FarenhieghttoCelcius.exe
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\bin\Debug\FarenhieghttoCelcius.pdb
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\obj\Debug\FarenhieghttoCelcius.csprojResolveAssemblyReference.cache
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\obj\Debug\FarenhieghttoCelcius.Form1.resources
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\obj\Debug\FarenhieghttoCelcius.Properties.Resources.resources
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\obj\Debug\FarenhieghttoCelcius.csproj.GenerateResource.Cache
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\obj\Debug\FarenhieghttoCelcius.exe
+c:\users\win10\documents\visual studio 2015\Projects\FarenhieghttoCelcius\FarenhieghttoCelcius\obj\Debug\FarenhieghttoCelcius.pdb
